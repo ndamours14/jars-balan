@@ -1,0 +1,293 @@
+{
+  "event_id": "0771c0a3-8b35-4a3b-ab3a-3128af31f68c",
+  "source_id": "99b9aebc-99fe-4262-a909-29b3d96e304e",
+  "set": "[AssemblyAI Index] 88-47-210-a.wav [Index]",
+  "annotations": [
+    {
+      "start_time": 16.519,
+      "end_time": 81.921,
+      "annotation": [
+        {
+          "text": "English spoken in Canada"
+        }
+      ],
+      "tags": [],
+      "uuid": "1a630ddd-15b1-4ec4-97d5-37c23405f5f2"
+    },
+    {
+      "start_time": 16.519,
+      "end_time": 81.921,
+      "annotation": [
+        {
+          "text": "Voiceprint looks at the English spoken in Canada, its history, its unique features and its regional variations. On Literary Supplement we feature a fascinating talk about the Canadian literary movement in the 1960s with poet and novelist Margaret Atwood."
+        }
+      ],
+      "tags": [],
+      "uuid": "d7f6fe62-c778-404f-a2ad-a81597623b8e"
+    },
+    {
+      "start_time": 82.112,
+      "end_time": 543.543,
+      "annotation": [
+        {
+          "text": "The Distinctiveness of Canadian English"
+        }
+      ],
+      "tags": [],
+      "uuid": "cf80c8bb-c140-4d57-8f10-25fff890be48"
+    },
+    {
+      "start_time": 82.112,
+      "end_time": 543.543,
+      "annotation": [
+        {
+          "text": "The first literary reference to the distinctness of Canadian English was made in 1857. Canadian English really began with the sort of post Loyalist influx from the United States. We asked Dr. Jack Chambers of the University of Toronto to describe some of the unique features of our speech."
+        }
+      ],
+      "tags": [],
+      "uuid": "1f064565-d0a0-4546-84d1-87802c985c85"
+    },
+    {
+      "start_time": 543.719,
+      "end_time": 1005.014,
+      "annotation": [
+        {
+          "text": "Canadian English"
+        }
+      ],
+      "tags": [],
+      "uuid": "3f2398c2-bcd5-4bad-b3f4-8148e10fea73"
+    },
+    {
+      "start_time": 543.719,
+      "end_time": 1005.014,
+      "annotation": [
+        {
+          "text": "Canadian English has a number of features which distinguish it from other varieties of American English. Canadians have a distinctive pronunciation of certain long vowels. It's no great trick really to discover that somebody is as an American accent as opposed to a Canadian."
+        }
+      ],
+      "tags": [],
+      "uuid": "1d13aad1-e40d-43f9-b2aa-b8b30b7622b8"
+    },
+    {
+      "start_time": 1015.634,
+      "end_time": 1511.595,
+      "annotation": [
+        {
+          "text": "Which part of the country is richest in regional dialect?"
+        }
+      ],
+      "tags": [],
+      "uuid": "31e91883-b373-4e52-bdff-806d214548c1"
+    },
+    {
+      "start_time": 1015.634,
+      "end_time": 1511.595,
+      "annotation": [
+        {
+          "text": "Newfoundland has wonderful variety, extraordinary variety from a Canadian or North American dialectologist's point of view. The most varied speech patterns in all of North America are all along the Atlantic seaboard. Have you ever wondered about the origins of some of the words that are intimately intertwined with our national identity?"
+        }
+      ],
+      "tags": [],
+      "uuid": "49cc5ae6-ae4b-41a2-8c18-751cadd0ccdd"
+    },
+    {
+      "start_time": 1513.414,
+      "end_time": 1954.555,
+      "annotation": [
+        {
+          "text": "Canadian English: Regional Dialects"
+        }
+      ],
+      "tags": [],
+      "uuid": "1373c153-fb51-46f2-b7ae-b2c859ac66bf"
+    },
+    {
+      "start_time": 1513.414,
+      "end_time": 1954.555,
+      "annotation": [
+        {
+          "text": "There is yet a third dimension to the English spoken in Canada. Dr. Grace Jolly gives an example of a regional dialect in Canadian literature. One aspect of Canadian speech that has not yet been studied is the influence that non English speaking immigrants have had on the linguistic habits of their fellow Canadians."
+        }
+      ],
+      "tags": [],
+      "uuid": "96e8e386-4027-4171-a924-3abf5be35c6b"
+    },
+    {
+      "start_time": 1956.295,
+      "end_time": 2295.295,
+      "annotation": [
+        {
+          "text": "Canada's 150th Anniversary Celebration"
+        }
+      ],
+      "tags": [],
+      "uuid": "182d163a-4ee1-4db3-a517-1be059827a4e"
+    },
+    {
+      "start_time": 1956.295,
+      "end_time": 2295.295,
+      "annotation": [
+        {
+          "text": "The Canadian Centenary Council meeting took place in La Reine Elizabeth. FR Scott laid the groundwork of modern Canadian poetry. Margaret Atwood came to national prominence in the 1960s. The air is heavy with Canadian topics."
+        }
+      ],
+      "tags": [],
+      "uuid": "40d0cf84-3164-42a3-b84c-bb1c765e530b"
+    },
+    {
+      "start_time": 2297.315,
+      "end_time": 2487.704,
+      "annotation": [
+        {
+          "text": "The Canadian literature of the 1950s"
+        }
+      ],
+      "tags": [],
+      "uuid": "9ac86043-b888-4508-a317-1e78601dc431"
+    },
+    {
+      "start_time": 2297.315,
+      "end_time": 2487.704,
+      "annotation": [
+        {
+          "text": "My first poem was published in the Canadian forum in 1959. There was no Canadian literature on the horizon at all. The idea was that you couldn't be a serious writer and be a Canadian writer at the same time. Some of the reading public still cherish this concept."
+        }
+      ],
+      "tags": [],
+      "uuid": "28db74c6-00d5-42f8-91d1-54b1c732f9d8"
+    },
+    {
+      "start_time": 2488.244,
+      "end_time": 2793.744,
+      "annotation": [
+        {
+          "text": "Did the writers in the 60s feel a sense of mission?"
+        }
+      ],
+      "tags": [],
+      "uuid": "b289f5b0-b089-4889-ae62-454a38acaf0f"
+    },
+    {
+      "start_time": 2488.244,
+      "end_time": 2793.744,
+      "annotation": [
+        {
+          "text": "There seemed to be a discrepancy between serious literature and Canada. The writers in the 60s were trying to identify themselves as a serious writer and a Canadian. It seemed quite daring then to identify something. None of the writers who later became politicized started out that way."
+        }
+      ],
+      "tags": [],
+      "uuid": "5388ea8d-8358-4783-8611-d8c42e978947"
+    },
+    {
+      "start_time": 2795.324,
+      "end_time": 2937.485,
+      "annotation": [
+        {
+          "text": "The Canadian Novelist on the 80s"
+        }
+      ],
+      "tags": [],
+      "uuid": "bff27c21-0657-4b5e-a66a-4229668cb35c"
+    },
+    {
+      "start_time": 2795.324,
+      "end_time": 2937.485,
+      "annotation": [
+        {
+          "text": "Margaret Atwood: In Canada you have to keep doing things over and over again. She says there was a peak of nationalist activity around 1972. Now we're due for another wave of a somewhat different kind of nationalism. A stronger assertion of ourselves, she says."
+        }
+      ],
+      "tags": [],
+      "uuid": "00cd8256-b323-4a5d-871d-13afbe988087"
+    },
+    {
+      "start_time": 2944.434,
+      "end_time": 3089.416,
+      "annotation": [
+        {
+          "text": "Canadian Poetry"
+        }
+      ],
+      "tags": [],
+      "uuid": "2ffae428-2a15-49ee-87a9-18d988e8bdee"
+    },
+    {
+      "start_time": 2944.434,
+      "end_time": 3089.416,
+      "annotation": [
+        {
+          "text": "The earliest Canadian poetry in English was produced by United Empire Loyalists who emigrated to the Maritime Provinces after the American Revolution of 1776. It wasn't until the middle of the 19th century that poets such as Alexander MacLachlan, Charles Sangster and Charles Mayer began the difficult work of developing a distinctly Canadian poetic voice."
+        }
+      ],
+      "tags": [],
+      "uuid": "afc1ac4f-f069-4f4b-9dbb-c355b1b3e451"
+    },
+    {
+      "start_time": 3089.601,
+      "end_time": 3454.335,
+      "annotation": [
+        {
+          "text": "Canadian Literature in the 60s"
+        }
+      ],
+      "tags": [],
+      "uuid": "66bd2e4b-4f1d-4a66-91e3-4de6a08595ec"
+    },
+    {
+      "start_time": 3089.601,
+      "end_time": 3454.335,
+      "annotation": [
+        {
+          "text": "In the 60s Canadian literature began to make inroads into public and institutions. Despite increased public awareness, Canadian literature is still not taught in most high schools. The spectacle of a nation's writers fighting for access to their most natural audience would surely be comic."
+        }
+      ],
+      "tags": [],
+      "uuid": "8e356b71-bcdd-4087-9743-28cc13c65e88"
+    },
+    {
+      "start_time": 3458.755,
+      "end_time": 3501.434,
+      "annotation": [
+        {
+          "text": "A Long Goodbye to My Dog"
+        }
+      ],
+      "tags": [],
+      "uuid": "3c5aab14-3ac5-4d30-a6aa-c53443a4e74c"
+    },
+    {
+      "start_time": 3458.755,
+      "end_time": 3501.434,
+      "annotation": [
+        {
+          "text": "17 years today I would like to recall some of the. lessons that he has taught me in the matter of fidelity. If I have been true to some of. the great causes that I have sought to remain true to, been the example of that little fellow. Helped in many, many ways. Applause."
+        }
+      ],
+      "tags": [],
+      "uuid": "59331eab-1bdb-41c3-b0cd-d70b0e43211b"
+    },
+    {
+      "start_time": 3503.215,
+      "end_time": 3572.844,
+      "annotation": [
+        {
+          "text": "A Voiceprint: Margaret Atwood"
+        }
+      ],
+      "tags": [],
+      "uuid": "cc8066ca-9e81-4306-896e-86203e6ed488"
+    },
+    {
+      "start_time": 3503.215,
+      "end_time": 3572.844,
+      "annotation": [
+        {
+          "text": "I would like to thank all of my guests and participants on this 100% Canadian edition of Dr. Jack Chambers' Voiceprint. Voiceprint produced and presented by Yars Balan, Voiceprint executive producer Roman Onufric. Equipment for the Toronto tapings was generously provided by stagetech."
+        }
+      ],
+      "tags": [],
+      "uuid": "b02a44f0-403e-4917-910e-71fa2ed6ee53"
+    }
+  ]
+}
