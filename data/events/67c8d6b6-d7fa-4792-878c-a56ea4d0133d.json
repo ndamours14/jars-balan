@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "6045caa1-1a7f-43ea-bf91-ae545a3326f7": {
+      "label": "AV File 1",
+      "file_url": "https://aviary-p-ualberta.s3.wasabisys.com/collection_resource_files/resource_files/000/134/079/original/88-47-464-a.wav?1660732009",
+      "duration": 1714.00417
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-10-10T14:55:59.402Z",
+  "created_by": "ndamours14",
+  "item_type": "Audio",
+  "label": "Paper Tygers: Creative Writing",
+  "updated_at": "2025-10-10T14:55:59.402Z",
+  "updated_by": "ndamours14"
+}
