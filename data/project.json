@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "ndamours14",
+      "avatar_url": "https://avatars.githubusercontent.com/u/194835216?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "ndamours14",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-10-10T14:48:30.621Z",
-    "updated_at": "2025-10-10T14:48:30.621Z"
-  }
+    "updated_at": "2025-10-10T14:48:30.621Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "7917e5e3-381b-4ebb-94ca-4750c915593c": {
+      "content": [],
+      "created_at": "2025-10-10T14:48:30.644Z",
+      "created_by": "ndamours14",
+      "title": "On the Air with Jars Balan",
+      "updated_at": "2025-10-10T14:48:30.644Z",
+      "updated_by": "ndamours14",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "7917e5e3-381b-4ebb-94ca-4750c915593c"
+  ]
 }
