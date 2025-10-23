@@ -239,7 +239,12 @@
           "text": "Intro to \"Dictionary Definitions\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro and Outro"
+        }
+      ],
       "uuid": "1b120cf9-88f8-4ffe-a724-7a39020bf0cf"
     },
     {
