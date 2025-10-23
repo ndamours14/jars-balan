@@ -375,7 +375,20 @@
           "text": "Balan Interviews Rudy Wiebe | Q/A, Wiebe Discusses Specialized Kinds of Writing"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Q and A"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Rudy Wiebe"
+        }
+      ],
       "uuid": "a9419f32-10e5-4019-a51f-deedbe38486c"
     },
     {
