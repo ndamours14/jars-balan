@@ -523,7 +523,16 @@
           "text": "Onufrijchuk performs \"National Identity\" by Scott"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Reading"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Roman Onufrijchuk"
+        }
+      ],
       "uuid": "5b76cc4b-5d24-43c6-8572-6a91bd8eea92"
     },
     {
