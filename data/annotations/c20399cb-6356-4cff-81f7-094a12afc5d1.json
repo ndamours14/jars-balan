@@ -155,7 +155,20 @@
           "text": "Balan and Chambers discuss difference between Canadian and American English"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jack Chambers"
+        }
+      ],
       "uuid": "ac746c1c-7389-44e2-baa5-f763d6a06b9d"
     },
     {
