@@ -55,11 +55,29 @@
       "type": "paragraph",
       "children": [
         {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Over forty years later, these radio shows (which include interviews with Canadian literary stars as well as experts in literature, speech, and more) have been digitized and are presented here in this digital exhibition, "
         },
         {
-          "text": "On the Air with Jars Balan.\n ",
+          "text": "On the Air with Jars Balan.\n",
           "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": " "
         }
       ]
     },
@@ -90,6 +108,15 @@
         {
           "text": " ",
           "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
         }
       ]
     },
@@ -199,8 +226,17 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": " \n",
+                  "text": " ",
                   "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "italic": true,
+                  "text": "\n"
                 },
                 {
                   "text": "Celebrations",
@@ -280,8 +316,17 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n",
+                  "text": "",
                   "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "italic": true,
+                  "text": "\n"
                 },
                 {
                   "text": "Paper Tygers",
@@ -348,6 +393,6 @@
   "slug": "home-page",
   "created_at": "2025-10-10T15:15:27.345Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-10-23T22:44:25.253Z",
+  "updated_at": "2025-10-23T22:47:32.733Z",
   "updated_by": "ndamours14"
 }
