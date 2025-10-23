@@ -863,7 +863,12 @@
           "text": "Stringband performs \"The Maple Leaf Dog\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Musical Performance"
+        }
+      ],
       "uuid": "0cec7a01-c118-4aae-ba54-866c635868d0"
     },
     {
