@@ -215,7 +215,16 @@
           "text": "Q/A, Wiebe Discusses How to Sign Up for Creative Writing Course"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Q and A"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Rudy Wiebe"
+        }
+      ],
       "uuid": "a5ee1286-76c7-4cb8-a636-a908fff3ccd2"
     },
     {
