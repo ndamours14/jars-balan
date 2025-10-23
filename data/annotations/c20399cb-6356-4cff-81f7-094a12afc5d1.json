@@ -483,7 +483,16 @@
           "text": "Onufrijchuk performs \"Laurentian Shield\" by F. R. Scott"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Reading"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Roman Onufrijchuk"
+        }
+      ],
       "uuid": "08bfa3b6-a36c-4078-9b7a-4eb58f25fa18"
     },
     {
