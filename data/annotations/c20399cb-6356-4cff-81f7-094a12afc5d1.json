@@ -503,7 +503,16 @@
           "text": "Onufrijchuk performs \"The Call of the Wild\" by Scott"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Reading"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Roman Onufrijchuk"
+        }
+      ],
       "uuid": "51664856-ac0d-404b-adaa-e4889959d226"
     },
     {
