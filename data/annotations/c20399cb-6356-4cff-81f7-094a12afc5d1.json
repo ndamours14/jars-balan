@@ -579,7 +579,12 @@
           "text": "Intro to \"Symposium\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro and Outro"
+        }
+      ],
       "uuid": "e57a0bb6-a944-4cef-a338-b50efb4655dd"
     },
     {
