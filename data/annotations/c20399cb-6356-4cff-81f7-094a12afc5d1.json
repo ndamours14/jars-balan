@@ -879,7 +879,24 @@
           "text": "Outro and credits"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro and Outro"
+        },
+        {
+          "category": "Segments",
+          "tag": "Theme Music"
+        },
+        {
+          "category": "Segments",
+          "tag": "Credits"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        }
+      ],
       "uuid": "4edfb1c5-f49c-4bee-a448-19d4a0a0b9f2"
     }
   ]
