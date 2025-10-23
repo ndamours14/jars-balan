@@ -563,7 +563,12 @@
           "text": "Ambient sound: music"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Theme Music"
+        }
+      ],
       "uuid": "ef012714-2f87-4c7e-81eb-7d9a1820ae58"
     },
     {
