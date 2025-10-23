@@ -22,38 +22,151 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Between 1980 and 1984, English Master's student"
-        },
-        {
-          "text": " Jars Balan",
-          "bold": true
-        },
-        {
-          "text": " produced three educational campus radio shows: "
-        },
-        {
-          "text": "Voiceprint",
+          "bold": true,
           "italic": true,
-          "bold": true
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://spokenweb.ualberta.ca/spokenweb-ualberta/img/JarsBalan.jpg",
+              "caption": "Jars Balan reads Voiceprint script, 1981?",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         },
         {
-          "text": ", "
-        },
-        {
-          "text": "Celebrations",
-          "italic": true,
-          "bold": true
-        },
-        {
-          "text": ", and "
-        },
-        {
-          "text": "Paper Tygers",
-          "italic": true,
-          "bold": true
-        },
-        {
-          "text": " for the University of Alberta’s Radio and Television Department. "
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Between 1980 and 1984, English Master's student Jars Balan produced three educational campus radio shows: "
+                },
+                {
+                  "text": "Voiceprint",
+                  "italic": true
+                },
+                {
+                  "text": ", "
+                },
+                {
+                  "text": "Celebrations",
+                  "italic": true
+                },
+                {
+                  "text": ", and "
+                },
+                {
+                  "text": "Paper Tygers",
+                  "italic": true
+                },
+                {
+                  "text": " for the University of Alberta’s Radio and Television Department. "
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Over forty years later, these radio shows (which include interviews with Canadian literary stars as well as experts in literature, speech, and more) have been digitized and are presented here in this digital exhibition, "
+                },
+                {
+                  "text": "On the Air with Jars Balan.",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Read more in Chelsea Miya's SpokenWeb UAlberta ",
+                  "italic": true
+                },
+                {
+                  "type": "link",
+                  "url": "https://spokenweb.ualberta.ca/spokenweb-ualberta/exhibits/jarsBalan/",
+                  "children": [
+                    {
+                      "text": "article on Jars Balan",
+                      "italic": true
+                    }
+                  ]
+                },
+                {
+                  "text": ".",
+                  "italic": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n\n"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -62,50 +175,6 @@
       "children": [
         {
           "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Over forty years later, these radio shows (which include interviews with Canadian literary stars as well as experts in literature, speech, and more) have been digitized and are presented here in this digital exhibition, "
-        },
-        {
-          "text": "On the Air with Jars Balan.",
-          "bold": true,
-          "italic": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "bold": true,
-          "italic": true,
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "bold": true,
-          "italic": true,
-          "text": "Read more in Chelsea Miya's SpokenWeb UAlberta "
-        },
-        {
-          "bold": true,
-          "italic": true,
-          "link": "https://spokenweb.ualberta.ca/spokenweb-ualberta/exhibits/jarsBalan/",
-          "text": "article on Jars Balan"
-        },
-        {
-          "bold": true,
-          "italic": true,
-          "text": "."
         }
       ]
     },
@@ -333,6 +402,6 @@
   "slug": "home-page",
   "created_at": "2025-10-10T15:15:27.345Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-10-10T15:15:38.685Z",
+  "updated_at": "2025-10-23T22:27:34.123Z",
   "updated_by": "ndamours14"
 }
