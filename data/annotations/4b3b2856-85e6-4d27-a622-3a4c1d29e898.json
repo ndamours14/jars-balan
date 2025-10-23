@@ -67,7 +67,16 @@
           "text": "Ruth Fraser Discusses Experience With Creative Writing Courses as a Student"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Ruth Fraser"
+        }
+      ],
       "uuid": "7606ab1e-1f7e-4d74-a8ae-284fff8b7b9a"
     },
     {
