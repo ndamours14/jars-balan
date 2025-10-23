@@ -165,8 +165,26 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Voiceprint",
+                  "text": "",
                   "textSize": "heading-two"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-two",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "textSize": "heading-two",
+                  "text": "Voiceprint"
                 }
               ]
             },
@@ -236,10 +254,11 @@
               "children": [
                 {
                   "italic": true,
-                  "text": "\n"
+                  "text": "\n",
+                  "textSize": "heading-two"
                 },
                 {
-                  "text": "Celebrations",
+                  "text": "Celebrations ",
                   "textSize": "heading-two"
                 }
               ]
@@ -326,10 +345,11 @@
               "children": [
                 {
                   "italic": true,
-                  "text": "\n"
+                  "text": "\n",
+                  "textSize": "heading-two"
                 },
                 {
-                  "text": "Paper Tygers",
+                  "text": "Paper Tygers ",
                   "textSize": "heading-two"
                 }
               ]
@@ -393,6 +413,6 @@
   "slug": "home-page",
   "created_at": "2025-10-10T15:15:27.345Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-10-23T22:47:32.733Z",
+  "updated_at": "2025-10-23T22:50:12.760Z",
   "updated_by": "ndamours14"
 }
