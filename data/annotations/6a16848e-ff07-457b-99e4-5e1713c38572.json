@@ -31,7 +31,20 @@
           "text": "Jars Balan introduces Matt Cohen"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Matt Cohen"
+        }
+      ],
       "uuid": "41dd431b-34d9-4f2e-9216-bd41c7b8cad2"
     },
     {
