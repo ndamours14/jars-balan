@@ -235,7 +235,16 @@
           "text": "Q/A, Wiebe Discusses What Are Assignments Like"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Q and A"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Rudy Wiebe"
+        }
+      ],
       "uuid": "15cbd650-b89d-4449-a58e-cd4c38387064"
     },
     {
