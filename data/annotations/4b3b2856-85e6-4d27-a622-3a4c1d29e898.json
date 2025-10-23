@@ -419,7 +419,16 @@
           "text": "Q/A, Wiebe Discusses What To Expect from a CW Course"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Q and A"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Rudy Wiebe"
+        }
+      ],
       "uuid": "8b1babb7-cb14-472c-ac56-85ecf456c946"
     },
     {
