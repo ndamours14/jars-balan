@@ -67,7 +67,16 @@
           "text": "Don Harron performs comedic sketch about beaver as Canada's national symbol"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Reading"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Don Harron"
+        }
+      ],
       "uuid": "6010cfe8-998c-4fc8-880a-052ffa3ebe88"
     },
     {
