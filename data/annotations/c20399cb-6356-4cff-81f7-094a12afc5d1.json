@@ -543,7 +543,16 @@
           "text": "Onufrijchuk performs \"The Canadian Authors Meet\" by Scott"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Reading"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Roman Onufrijchuk"
+        }
+      ],
       "uuid": "3f376530-98d7-4b68-a8ed-554406286a37"
     },
     {
