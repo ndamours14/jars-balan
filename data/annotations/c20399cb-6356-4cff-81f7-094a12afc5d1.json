@@ -275,7 +275,16 @@
           "text": "Richard Brown discusses history of Canadian words"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Richard Brown"
+        }
+      ],
       "uuid": "8728b7ef-fe8d-41ac-bfe5-0086bf296bdd"
     },
     {
