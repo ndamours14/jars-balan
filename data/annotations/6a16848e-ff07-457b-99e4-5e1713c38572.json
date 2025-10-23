@@ -75,7 +75,16 @@
           "text": "Cohen performs \"Death of a Guppy\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Reading"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Matt Cohen"
+        }
+      ],
       "uuid": "e03a5172-93a4-4eb6-a096-e2d9e9d05589"
     },
     {
