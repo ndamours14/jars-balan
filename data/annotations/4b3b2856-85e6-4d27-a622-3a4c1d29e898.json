@@ -31,7 +31,16 @@
           "text": "Jars Balan Introduces Topic: On Creative Writing Courses - What to Expect and Consumer's Guide"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Introduction"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        }
+      ],
       "uuid": "4bc76d5c-a1b3-4fb4-a7ab-38d135e458c9"
     },
     {
