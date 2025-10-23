@@ -12,7 +12,28 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "Produced in 1982 and aired in 1984, this episode of Celebrations features the voices of Jars Balan and Matt Cohen. "
+        },
+        {
+          "text": "Visit Aviary for more information on this recording",
+          "link": "https://ualberta.aviaryplatform.com/collections/1783/collection_resources/59239"
+        },
+        {
+          "text": "."
+        },
+        {
+          "type": "link",
+          "url": "https://ualberta.aviaryplatform.com/collections/1783/collection_resources/59254",
+          "children": [
+            {
+              "text": "",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "text": "",
+          "link": ""
         }
       ]
     }
@@ -21,7 +42,7 @@
   "created_by": "ndamours14",
   "item_type": "Audio",
   "label": "Celebrations: Matt Cohen",
-  "updated_at": "2025-10-23T23:10:52.889Z",
+  "updated_at": "2025-10-23T23:18:19.569Z",
   "updated_by": "ndamours14",
   "av_file_order": [
     "73fd3c87-abb7-4f4f-8312-219ed393f43b"
