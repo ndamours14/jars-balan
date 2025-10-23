@@ -175,7 +175,16 @@
           "text": "Q/A, Wiebe Discusses History of University of Alberta Writing Program"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Q and A"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Rudy Wiebe"
+        }
+      ],
       "uuid": "2d63e48a-06cd-4aed-90ba-4af4dff8c4d0"
     },
     {
