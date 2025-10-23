@@ -595,7 +595,20 @@
           "text": "Balan introduces Margaret Atwood"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Introduction"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Margaret Atwood"
+        }
+      ],
       "uuid": "d309d6bd-dc36-4c56-b6f4-7b8948fd4035"
     },
     {
