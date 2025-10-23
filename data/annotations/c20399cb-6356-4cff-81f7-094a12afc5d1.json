@@ -467,7 +467,12 @@
           "text": "Intro to \"Literary Supplement\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro and Outro"
+        }
+      ],
       "uuid": "b43a60f0-0e66-49cb-b5da-02769b08981c"
     },
     {
