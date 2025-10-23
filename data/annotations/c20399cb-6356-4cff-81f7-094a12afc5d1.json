@@ -51,7 +51,12 @@
           "text": "Intro to \"Word Works\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro and Outro"
+        }
+      ],
       "uuid": "443825a0-5633-44c6-bb2b-afab6debd544"
     },
     {
