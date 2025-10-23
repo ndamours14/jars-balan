@@ -191,7 +191,20 @@
           "text": "Balan and Cohen discuss academia"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Matt Cohen"
+        }
+      ],
       "uuid": "445c3e63-ddd3-44c5-bab3-0ac290c45220"
     },
     {
