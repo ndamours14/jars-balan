@@ -119,7 +119,20 @@
           "text": "Balan and Cohen discuss importance of literary community"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Matt Cohen"
+        }
+      ],
       "uuid": "03670f48-f4c3-48b6-9f98-7ef111b02686"
     },
     {
