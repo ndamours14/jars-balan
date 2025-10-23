@@ -811,7 +811,12 @@
           "text": "Intro to \"Bibliography\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro and Outro"
+        }
+      ],
       "uuid": "5ddea40e-6538-4608-96f2-b8fbb3055143"
     },
     {
