@@ -13,16 +13,7 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-one",
           "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
         }
       ]
     },
@@ -51,15 +42,7 @@
           "italic": true
         },
         {
-          "text": " for the University of Alberta’s Radio and Television Department. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n\n"
+          "text": " for the University of Alberta’s Radio and Television Department. \n"
         }
       ]
     },
@@ -70,16 +53,7 @@
           "text": "Over forty years later, these radio shows (which include interviews with Canadian literary stars as well as experts in literature, speech, and more) have been digitized and are presented here in this digital exhibition, "
         },
         {
-          "text": "On the Air with Jars Balan.",
-          "italic": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n\n",
+          "text": "On the Air with Jars Balan.\n",
           "italic": true
         }
       ]
@@ -104,14 +78,9 @@
         {
           "text": ".",
           "italic": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+        },
         {
-          "text": "\n\n"
+          "text": "\n"
         }
       ]
     },
@@ -160,7 +129,8 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n"
+                  "text": "Voiceprint",
+                  "textSize": "heading-two"
                 }
               ]
             },
@@ -168,23 +138,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "",
-                  "italic": true
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "\n\n\n"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
+                  "italic": true,
                   "text": ""
                 }
               ]
@@ -193,35 +147,11 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Voiceprint: Speech, Language, Communications Technology, and Literary Arts in a Changing World ",
-                  "italic": true
+                  "italic": true,
+                  "text": "Voiceprint: Speech, Language, Communications Technology, and Literary Arts in a Changing World "
                 },
                 {
-                  "text": "was a University of Alberta campus radio show produced by Jars Balan and production assistant Terri Wynnyk. It aired on CKUA from 1980 to 1983 (UAlberta Archives, No. 88-47). This interdisciplinary show covered a blend of communications theory, literary arts, and politics. "
+                  "text": "was a University of Alberta campus radio show produced by Jars Balan and production assistant Terri Wynnyk. It aired on CKUA from 1980 to 1983 (UAlberta Archives, No. 88-47). This interdisciplinary show covered a blend of communications theory, literary arts, and politics. \n"
                 }
               ]
             },
@@ -229,23 +159,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n"
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Episode topics included Canadian English & Literature, Speech & Its Characteristics, Women's Language & Literature, and more."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "\n"
+                  "text": "Episode topics included Canadian English & Literature, Speech & Its Characteristics, Women's Language & Literature, and more.\n"
                 }
               ]
             },
@@ -278,6 +192,10 @@
                 {
                   "text": "\n",
                   "italic": true
+                },
+                {
+                  "text": "Celebrations",
+                  "textSize": "heading-two"
                 }
               ]
             },
@@ -285,31 +203,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "",
-                  "italic": true
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
+                  "italic": true,
                   "text": ""
                 }
               ]
@@ -330,7 +224,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n"
+                  "text": ""
                 }
               ]
             },
@@ -346,7 +240,7 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "\n"
+                  "text": ""
                 }
               ]
             },
@@ -379,30 +273,10 @@
                 {
                   "text": "\n",
                   "italic": true
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
+                },
                 {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
+                  "text": "Paper Tygers",
+                  "textSize": "heading-two"
                 }
               ]
             },
@@ -422,22 +296,7 @@
                   "italic": true
                 },
                 {
-                  "text": " was a University of Alberta campus radio show produced by Jars Balan, which aired on CKUA in the 1980s. This show discussed the craft of writing, with episode topics including Creative Writing, the Writer & Human Rights, and Poetry: The Sullen Art or Craft."
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Voiceprint\nCelebrations"
-                },
-                {
-                  "text": "\n",
-                  "italic": true
-                },
-                {
-                  "text": "Paper Tygers\n\n\n"
+                  "text": " was a University of Alberta campus radio show produced by Jars Balan, which aired on CKUA in the 1980s. This show discussed the craft of writing, with episode topics including Creative Writing, the Writer & Human Rights, and Poetry: The Sullen Art or Craft.\n"
                 }
               ]
             }
@@ -480,6 +339,6 @@
   "slug": "home-page",
   "created_at": "2025-10-10T15:15:27.345Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-10-23T22:31:51.068Z",
+  "updated_at": "2025-10-23T22:38:07.011Z",
   "updated_by": "ndamours14"
 }
