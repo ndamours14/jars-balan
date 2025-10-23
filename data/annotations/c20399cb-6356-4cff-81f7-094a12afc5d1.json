@@ -691,7 +691,20 @@
           "text": "Balan and Atwood discuss literary scene on campus"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Margaret Atwood"
+        }
+      ],
       "uuid": "d079f205-525e-4555-82a1-a0ee2a1f3431"
     },
     {
