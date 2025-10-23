@@ -143,7 +143,20 @@
           "text": "Balan and Cohen discuss need for diverse literary voices"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Matt Cohen"
+        }
+      ],
       "uuid": "65b29c1c-4b57-4474-81ed-8870d1d95a74"
     },
     {
