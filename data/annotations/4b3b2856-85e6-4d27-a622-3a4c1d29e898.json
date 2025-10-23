@@ -255,7 +255,16 @@
           "text": "Q/A, Wiebe Discusses Demand for the Course"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Q and A"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Rudy Wiebe"
+        }
+      ],
       "uuid": "59138eca-d881-439c-83dc-eff04937270a"
     },
     {
