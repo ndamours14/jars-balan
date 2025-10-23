@@ -87,7 +87,20 @@
           "text": "Balan Introduces Ruth Fraser, Editor, an Organizer of Creative Writing Program at Banff School for Fine Arts"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Introduction"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Ruth Fraser"
+        }
+      ],
       "uuid": "a72eecb0-33a4-4e8d-9602-937c8f754f3a"
     },
     {
