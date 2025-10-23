@@ -379,7 +379,12 @@
           "text": "Intro to \"Apostrophe\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro and Outro"
+        }
+      ],
       "uuid": "ca3d57aa-bf6c-475c-9777-5352059549ca"
     },
     {
