@@ -25,7 +25,7 @@
           "text": "Between 1980 and 1984, English Master's student Jars Balan produced three educational campus radio shows: "
         },
         {
-          "text": "Voiceprint",
+          "text": "VoicePrint",
           "italic": true
         },
         {
@@ -193,7 +193,7 @@
               "children": [
                 {
                   "textSize": "heading-two",
-                  "text": "Voiceprint"
+                  "text": "VoicePrint"
                 }
               ]
             },
@@ -211,7 +211,7 @@
               "children": [
                 {
                   "italic": true,
-                  "text": "Voiceprint: Speech, Language, Communications Technology, and Literary Arts in a Changing World "
+                  "text": "VoicePrint: Speech, Language, Communications Technology, and Literary Arts in a Changing World "
                 },
                 {
                   "text": "was a University of Alberta campus radio show produced by Jars Balan and production assistant Terri Wynnyk, which aired on CKUA from 1980 to 1983. This interdisciplinary show covered a blend of communications theory, literary arts, and politics. \n"
@@ -254,7 +254,7 @@
                   "url": "https://spokenweb.ualberta.ca/spokenweb-ualberta/exhibits/voiceprint/",
                   "children": [
                     {
-                      "text": "article on Voiceprint",
+                      "text": "article on VoicePrint",
                       "italic": true
                     }
                   ]
@@ -265,7 +265,7 @@
                 },
                 {
                   "italic": true,
-                  "text": "annotated episode of Voiceprint",
+                  "text": "annotated episode of VoicePrint",
                   "link": "https://ndamours14.github.io/jars-balan/events/voiceprint-canadian-english-and-literature/"
                 },
                 {
@@ -485,6 +485,6 @@
   "slug": "home-page",
   "created_at": "2025-10-10T15:15:27.345Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-10-23T23:04:35.589Z",
+  "updated_at": "2025-10-23T23:23:40.349Z",
   "updated_by": "ndamours14"
 }
