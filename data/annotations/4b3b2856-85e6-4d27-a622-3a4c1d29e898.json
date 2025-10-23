@@ -295,7 +295,16 @@
           "text": "Q/A, Wiebe Discusses Misconceptions Students Have"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Q and A"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Rudy Wiebe"
+        }
+      ],
       "uuid": "5860d4d1-8dd0-4904-b559-d7c1311f5ffb"
     },
     {
