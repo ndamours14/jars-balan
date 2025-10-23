@@ -107,7 +107,20 @@
           "text": "Balan and Jack Chambers discuss history of Canadian English"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jack Chambers"
+        }
+      ],
       "uuid": "604460a1-995f-424a-b7f5-bf5ced429908"
     },
     {
