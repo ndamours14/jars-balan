@@ -715,7 +715,20 @@
           "text": "Balan and Atwood discuss nationalist politics"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Margaret Atwood"
+        }
+      ],
       "uuid": "35ab3787-bdbb-4af0-90c2-9be441a0f4b5"
     },
     {
