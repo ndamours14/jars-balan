@@ -739,7 +739,12 @@
           "text": "Intro to \"Popular Poetics\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro and Outro"
+        }
+      ],
       "uuid": "d80f6b4b-230c-4b15-a1ae-c55c0406c23d"
     },
     {
