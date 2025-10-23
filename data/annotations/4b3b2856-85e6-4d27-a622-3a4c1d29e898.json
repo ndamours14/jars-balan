@@ -315,7 +315,16 @@
           "text": "Q/A, Wiebe Discusses Objectives of a First Year Writing Course"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Q and A"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Rudy Wiebe"
+        }
+      ],
       "uuid": "73b0f69d-c19a-4111-8e60-1de22918d0a6"
     },
     {
