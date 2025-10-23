@@ -31,7 +31,16 @@
           "text": "Jars Balan introduces topic \"Canadian English and Canlit\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Introduction"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        }
+      ],
       "uuid": "61347022-07c8-484a-813e-7d58c43dbe40"
     },
     {
