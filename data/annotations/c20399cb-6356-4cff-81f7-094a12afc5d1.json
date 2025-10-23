@@ -415,7 +415,12 @@
           "text": "Intro to \"Footnote\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro and Outro"
+        }
+      ],
       "uuid": "4e5078d5-c282-4887-a917-31b93ed28b8d"
     },
     {
