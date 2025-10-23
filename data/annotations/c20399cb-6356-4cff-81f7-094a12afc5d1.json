@@ -295,7 +295,12 @@
           "text": "Intro to \"Words Worth Listening To\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro and Outro"
+        }
+      ],
       "uuid": "3fdffde9-a2f4-46f4-9f83-6a6dc171ac92"
     },
     {
