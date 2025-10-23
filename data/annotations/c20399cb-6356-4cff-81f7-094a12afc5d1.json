@@ -755,7 +755,16 @@
           "text": "Winnick discusses loyalist poets"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Terry Winnick"
+        }
+      ],
       "uuid": "69383d0d-4183-481f-aedc-86e8bb21c129"
     },
     {
