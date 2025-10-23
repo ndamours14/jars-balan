@@ -111,7 +111,16 @@
           "text": "Q/A, Fraser Discusses Most Effective Way to Teach Writing"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Q and A"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Ruth Fraser"
+        }
+      ],
       "uuid": "275fc20d-31e6-4306-8fd4-086e90a14679"
     },
     {
