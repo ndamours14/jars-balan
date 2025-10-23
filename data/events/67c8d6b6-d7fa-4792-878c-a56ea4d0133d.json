@@ -12,10 +12,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Produced in 1981, this episode of Paper Tygers features the voices of Jars Balan, Rudy Wiebe, and Ruth Fraser. Visit "
+          "text": "Produced in 1981, this episode of "
         },
         {
-          "text": "Aviary for more information on this recording.",
+          "text": "Paper Tygers",
+          "italic": true
+        },
+        {
+          "text": " features the voices of Jars Balan, Rudy Wiebe, and Ruth Fraser. "
+        },
+        {
+          "text": "Visit Aviary for more information on this recording.",
           "link": "https://ualberta.aviaryplatform.com/collections/1783/collection_resources/59266"
         }
       ]
@@ -25,7 +32,7 @@
   "created_by": "ndamours14",
   "item_type": "Audio",
   "label": "Paper Tygers: Creative Writing",
-  "updated_at": "2025-10-23T23:19:37.718Z",
+  "updated_at": "2025-10-23T23:23:03.695Z",
   "updated_by": "ndamours14",
   "av_file_order": [
     "6045caa1-1a7f-43ea-bf91-ae545a3326f7"
