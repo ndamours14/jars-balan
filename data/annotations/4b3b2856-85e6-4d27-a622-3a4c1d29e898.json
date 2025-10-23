@@ -275,7 +275,16 @@
           "text": "Q/A, Wiebe Discusses Textbooks"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Q and A"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Rudy Wiebe"
+        }
+      ],
       "uuid": "1b0391f8-2e73-46bd-b831-c9e39341cfe8"
     },
     {
