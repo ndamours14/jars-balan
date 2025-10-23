@@ -55,7 +55,16 @@
           "text": "Cohen introduces \"Death of a Guppy\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Matt Cohen"
+        }
+      ],
       "uuid": "7e4dd9bd-7df0-464e-91ee-db765b7f3636"
     },
     {
