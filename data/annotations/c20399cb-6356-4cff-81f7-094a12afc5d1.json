@@ -667,7 +667,20 @@
           "text": "Balan and Atwood discuss challenges of writing Canlit"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Margaret Atwood"
+        }
+      ],
       "uuid": "3e438ee9-52b0-4af4-8376-f11c0dd3ec49"
     },
     {
