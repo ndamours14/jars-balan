@@ -395,7 +395,16 @@
           "text": "Balan discusses how immigration affects dialect"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        }
+      ],
       "uuid": "32ea27fd-a9aa-476f-85d5-f711b1f757b2"
     },
     {
