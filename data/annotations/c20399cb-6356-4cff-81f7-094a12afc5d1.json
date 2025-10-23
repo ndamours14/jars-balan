@@ -431,7 +431,16 @@
           "text": "Terry Winnick discusses further reading"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Terry Winnick"
+        }
+      ],
       "uuid": "402fd2e8-a4d7-482d-aa08-0de4f47f4956"
     },
     {
