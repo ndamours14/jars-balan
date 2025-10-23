@@ -791,7 +791,16 @@
           "text": "Balan discusses how Canlit is underappreciated"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        }
+      ],
       "uuid": "55d1ebf0-a777-4fb3-8742-3995d47c02f5"
     },
     {
