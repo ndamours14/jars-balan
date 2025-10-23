@@ -151,7 +151,20 @@
           "text": "Balan Introduces Rudy Wiebe"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Introduction"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Rudy Wiebe"
+        }
+      ],
       "uuid": "5a296a33-ac59-496b-bbcf-483d3b7647ec"
     },
     {
