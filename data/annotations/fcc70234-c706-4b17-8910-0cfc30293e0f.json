@@ -1,7 +1,7 @@
 {
   "event_id": "3b0d1c18-a629-4b0c-a395-31795e2d5fc7",
   "source_id": "73fd3c87-abb7-4f4f-8312-219ed393f43b",
-  "set": "[Deepgram Transcript] 1985-99-16-a.wav [Transcript]",
+  "set": "Transcript",
   "annotations": [
     {
       "start_time": 0.11991,
