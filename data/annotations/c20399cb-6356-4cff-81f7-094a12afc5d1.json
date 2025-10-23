@@ -331,7 +331,20 @@
           "text": "Balan and Grace Jolly discuss dialect in literature"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Grace Jolly"
+        }
+      ],
       "uuid": "2b2184ff-197a-4fb0-9613-ae6b66b560cc"
     },
     {
