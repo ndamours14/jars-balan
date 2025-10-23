@@ -451,7 +451,12 @@
           "text": "Ambient sound: music and station identification"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Theme Music"
+        }
+      ],
       "uuid": "548ddb25-5d97-424c-86ad-c93c25ff711f"
     },
     {
