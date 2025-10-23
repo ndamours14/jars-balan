@@ -131,7 +131,16 @@
           "text": "Q/A, Fraser Discusses Illusions People Have About Learning to Write"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Q and A"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Ruth Fraser"
+        }
+      ],
       "uuid": "fcf5a40a-c265-466f-b0b9-af512f221ff5"
     },
     {
