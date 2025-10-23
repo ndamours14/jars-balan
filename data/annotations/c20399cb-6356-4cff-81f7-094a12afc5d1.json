@@ -847,7 +847,12 @@
           "text": "Intro to \"Last Word\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro and Outro"
+        }
+      ],
       "uuid": "8fbca25c-1e1c-4397-837a-f0689a3db607"
     },
     {
