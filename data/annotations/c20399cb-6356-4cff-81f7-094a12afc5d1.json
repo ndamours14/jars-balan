@@ -179,7 +179,12 @@
           "text": "Intro to \"Parenthesis\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro and Outro"
+        }
+      ],
       "uuid": "9ba85b58-0cef-4637-a3fb-8c03240f8270"
     },
     {
