@@ -775,7 +775,12 @@
           "text": "Intro to \"Synthesis\""
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Intro and Outro"
+        }
+      ],
       "uuid": "02a4e5e9-9aff-44aa-9957-1bec6b2ef88f"
     },
     {
