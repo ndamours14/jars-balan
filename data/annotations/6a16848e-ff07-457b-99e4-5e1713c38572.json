@@ -95,7 +95,20 @@
           "text": "Balan and Cohen discuss Canadian literary scene"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Discussion"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Jars Balan"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Matt Cohen"
+        }
+      ],
       "uuid": "5cb6343d-691f-4357-8407-83de495e260c"
     },
     {
