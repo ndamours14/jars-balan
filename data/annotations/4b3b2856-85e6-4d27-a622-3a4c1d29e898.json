@@ -195,7 +195,16 @@
           "text": "Q/A, Wiebe Discusses How Many Courses in Program Currently"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Q and A"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Rudy Wiebe"
+        }
+      ],
       "uuid": "93caf0b4-cb30-453c-b934-e7fbe1000edc"
     },
     {
