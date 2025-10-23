@@ -399,7 +399,16 @@
           "text": "Q/A, Wiebe Discusses Fiction Courses as Basic Training for Other Writing"
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Segments",
+          "tag": "Q and A"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Rudy Wiebe"
+        }
+      ],
       "uuid": "f19cd33c-42bd-499f-844c-7819c16be988"
     },
     {
